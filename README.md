@@ -1,4 +1,4 @@
-# Open source practice
+# Open source practice[![tests](https://github.com/asriniketh29/NewRepo1/actions/workflows/tests.yml/badge.svg)](https://github.com/asriniketh29/NewRepo1/actions/workflows/tests.yml)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 
